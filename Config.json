@@ -1,0 +1,7 @@
+{
+    "ipAddress": "192.168.52.151",
+    "username": "admin",
+    "password": "",
+    "motionDurationMinutes": 10,
+    "motionCheckIntervalSeconds": 10   
+}
